@@ -1,0 +1,48 @@
+{
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code",
+    "editor.formatOnSave": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#7295b1",
+    "activityBar.activeBorder": "#e8d6e0",
+    "activityBar.background": "#7295b1",
+    "activityBar.foreground": "#15202b",
+    "activityBar.inactiveForeground": "#15202b99",
+    "activityBarBadge.background": "#e8d6e0",
+    "activityBarBadge.foreground": "#15202b",
+    "statusBar.background": "#557c9b",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#7295b1",
+    "titleBar.activeBackground": "#557c9b",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#557c9b99",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#557c9b",
+  "editor.rulers": [80],
+  "editor.selectionHighlight": false,
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "editor.suggestSelection": "first",
+  "editor.tabCompletion": "onlySnippets",
+  "editor.wordBasedSuggestions": false,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "LTRB",
+    "Scrollable",
+    "Signup",
+    "appbar",
+    "autofocus",
+    "checkmark",
+    "cloudfunctions",
+    "codegen",
+    "crashlytics",
+    "loanfrom",
+    "loanto",
+    "oktoast",
+    "uppercased",
+    "xlider"
+  ],
+  "dart.flutterSdkPath": ".fvm/flutter_sdk"
+}
